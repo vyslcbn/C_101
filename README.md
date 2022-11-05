@@ -4,11 +4,11 @@
 3-Operators  
 4-Comparison Operators  
 5-If...Else  
-6-  
-7-  
-8-  
-9-  
-10  
+6-Switch  
+7-While Loop / Do While Loop  
+8-For Loop  
+9-Break  
+10-Continue  
 11-  
 12-  
 13-  
