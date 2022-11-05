@@ -10,8 +10,8 @@
 9-Break  
 10-Continue  
 11-Array  
-12-  
-13-  
+12-Strings  
+13-İnput  
 14-  
 15-  
 16-  
