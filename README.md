@@ -17,8 +17,8 @@
 16-Return Values  
 17-Math.h  
 18-İki Sayının Toplamını Hesaplayan Program  
-19-Karenin Alanını ve Çevresini Hesaplayan Program
-20-Dikdörtgenin Alanını ve Çevresini Hesaplayan Program  
+19-Karenin Alanını ve Çevresini Hesaplayan Program  
+20-Dikdörtgenin Alanını ve Çevresini Hesaplayan Program    
 21-  
 22-  
 23-  
