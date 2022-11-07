@@ -1,6 +1,6 @@
 //coded by vyslcbn
 //Project019
-//Karenin alani cevresini hesaplayan program
+//Karenin alanini ve cevresini hesaplayan program
 
 #include <stdio.h>
 #include <conio.h>
