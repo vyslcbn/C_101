@@ -19,11 +19,11 @@
 18-İki Sayının Toplamını Hesaplayan Program  
 19-Karenin Alanını ve Çevresini Hesaplayan Program  
 20-Dikdörtgenin Alanını ve Çevresini Hesaplayan Program    
-21-  
-22-  
-23-  
-24-   
-25-  
+21-Dairenin Alanini ve Cevresini Hesaplayan Program  
+22-Ne Kadar Yasadigini Hesaplayan Program  
+23-Tek mi Cift mi  
+24-2 Sayidan Buyuk Olanini Bulan Program   
+25-Oy Kullanabilmeyi Tespit Eden Program  
 26-  
 27-  
 28-  
