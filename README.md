@@ -23,7 +23,7 @@
 22-Ne Kadar Yasadigini Hesaplayan Program  
 23-Tek mi Cift mi  
 24-2 Sayidan Buyuk Olanini Bulan Program   
-25-Oy Kullanabilmeyi Tespit Eden Program
+25-Oy Kullanabilmeyi Tespit Eden 
 26-  
 27-  
 28-  
