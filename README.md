@@ -24,7 +24,7 @@
 23-Tek mi Cift mi  
 24-2 Sayidan Buyuk Olanini Bulan Program   
 25-Oy Kullanabilmeyi Tespit Eden Program  
-26-     
+26-Haftanin Gunlerini Numaralandiran Program     
 27-  
 28-  
 29-  
