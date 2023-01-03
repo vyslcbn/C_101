@@ -27,7 +27,7 @@
 26-Haftanin Gunlerini Numaralandiran Program     
 27-Bir sayının faktöriyelini bulan program  
 28-Bir dizinin en büyük ve en küçük elemanını bulan program  
-29-  
+29-Bir dizinin ortalamasını bulan program  
 30-  
 
 
