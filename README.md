@@ -26,7 +26,7 @@
 25-Oy Kullanabilmeyi Tespit Eden Program  
 26-Haftanin Gunlerini Numaralandiran Program     
 27-Bir sayının faktöriyelini bulan program  
-28-  
+28-Bir dizinin en büyük ve en küçük elemanını bulan program  
 29-  
 30-  
 
