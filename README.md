@@ -25,7 +25,7 @@
 24-2 Sayidan Buyuk Olanini Bulan Program   
 25-Oy Kullanabilmeyi Tespit Eden Program  
 26-Haftanin Gunlerini Numaralandiran Program     
-27-  
+27-Bir sayının faktöriyelini bulan program  
 28-  
 29-  
 30-  
