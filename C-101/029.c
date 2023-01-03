@@ -1,6 +1,6 @@
 //coded by vyslcbn
-//Project0
-//Bir dizinin ortalamasýný bulan program
+//Project029
+//Bir dizinin ortalamasÄ±nÄ± bulan program
 
 #include <stdio.h>
 #include <conio.h>
@@ -21,7 +21,7 @@ int main(){
 	}
 	
 	ortalama = (float)toplam / n;
-	printf("Dizinin ortalamasý: %f\n", ortalama);
+	printf("Dizinin ortalamasÄ±: %f\n", ortalama);
 	
 	return 0;
 	
