@@ -28,7 +28,28 @@
 27-Bir sayının faktöriyelini bulan program  
 28-Bir dizinin en büyük ve en küçük elemanını bulan program  
 29-Bir dizinin ortalamasını bulan program  
-30-  
+30-Kulanicidan ad soyad biligileri alinarak tam adi girilen program  
+31-Girilen 10 sayidan en buyuk ve en kucuk sayilari bulan program  
+32-Vucut kitle endeksini hesaplayan program  
+33-Girilen iki kelimeden uzun olanı bulan program  
+34-Girilen sayının karesini bulan program
+35-Girilen kelimenin karakter sayisini hesaplayan program  
+36-Girilen kelime icerisindeki sesli harf sayýsýný bulan program  
+37-
+38-
+39-
+40-
+41-
+42-
+43-
+44-
+45-
+46-
+47-
+48-
+49-
+50-
+
 
 
 
