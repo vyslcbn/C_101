@@ -32,7 +32,7 @@
 31-Girilen 10 sayidan en buyuk ve en kucuk sayilari bulan program  
 32-Vucut kitle endeksini hesaplayan program  
 33-Girilen iki kelimeden uzun olanı bulan program  
-34-Girilen sayının karesini bulan program
+34-Girilen sayının karesini bulan program  
 35-Girilen kelimenin karakter sayisini hesaplayan program  
 36-Girilen kelime icerisindeki sesli harf sayýsýný bulan program  
 37-  
