@@ -1,9 +1,9 @@
 //coded by vyslcbn
 //Project027
-//Bir sayının faktöriyelini bulan program
+//Bir sayÄ±nÄ±n faktÃ¶riyelini bulan program
 
 #include <stdio.h>
-#include <conio.h>
+
 
 int main (){
 
