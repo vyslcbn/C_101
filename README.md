@@ -42,7 +42,7 @@
 41-Kullanıcıdan alınan bir tam sayının 0'dan büyük veya küçük olduğunu bulan program   
 42-Dosya Acma  
 43-Dosya Yazma  
-44-  
+44-Dosya Kapatma  
 45-  
 46-  
 47-  
