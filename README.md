@@ -41,7 +41,7 @@
 40-Kullanıcıdan alınan bir tam sayının pozitif mi negatif mi olduğunu belirleyen program  
 41-Kullanıcıdan alınan bir tam sayının 0'dan büyük veya küçük olduğunu bulan program   
 42-Dosya Acma  
-43-  
+43-Dosya Yazma  
 44-  
 45-  
 46-  
