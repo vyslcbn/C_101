@@ -40,7 +40,7 @@
 39-Kullanıcıdan alınan bir ondalıklı sayının karesini alıp ekrana yazdıran program   
 40-Kullanıcıdan alınan bir tam sayının pozitif mi negatif mi olduğunu belirleyen program  
 41-Kullanıcıdan alınan bir tam sayının 0'dan büyük veya küçük olduğunu bulan program   
-42-  
+42-Dosya Acma  
 43-  
 44-  
 45-  
