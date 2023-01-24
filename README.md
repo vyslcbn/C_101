@@ -35,11 +35,11 @@
 34-Girilen sayının karesini bulan program  
 35-Girilen kelimenin karakter sayisini hesaplayan program  
 36-Girilen kelime icerisindeki sesli harf sayisini bulan program  
-37-  
-38-  
-39-  
-40-  
-41-  
+37-Haftanin günlerini diziler kullanılarak yazan program  
+38-Kullanıcıdan alınan iki tam sayının farkını ve çarpımını bulan program  
+39-Kullanıcıdan alınan bir ondalıklı sayının karesini alıp ekrana yazdıran program   
+40-Kullanıcıdan alınan bir tam sayının pozitif mi negatif mi olduğunu belirleyen program  
+41-Kullanıcıdan alınan bir tam sayının 0'dan büyük veya küçük olduğunu bulan program   
 42-  
 43-  
 44-  
