@@ -11,7 +11,7 @@ void myFunction(char name[], int age){
 
 int main(){
 	myFunction("Veysel", 21);
-	myFunction("Zeynep", 15);
+	myFunction("Kübra", 20);
 	myFunction("Duru", 5);
 
 
