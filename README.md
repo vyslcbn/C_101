@@ -43,11 +43,11 @@
 42-Dosya Acma  
 43-Dosya Yazma  
 44-Dosya Kapatma  
-45-  
-46-  
-47-  
-48-  
-49-  
+45-Dosyalama/ Ad Soyad Telefon No Kayit Programi  
+46-Dosyalama/ Ad Soyad Telefon No Listeleme Programi  
+47-Dosyalama/ Ad Soyad Telefon No Bulma Programi  
+48-Dosyalama/ Ad Soyad Telefon No Silme Programi  
+49-Dosyalama/ Ad Soyad Telefon No Degistirme Programi  
 50-  
 
 
