@@ -1,6 +1,6 @@
 //coded by vyslcbn
 //Project045
-//Dosyalama/ Ad Soyad Telefon No Kayýt Programý
+//Dosyalama/ Ad Soyad Telefon No KayÃ½t Programi
 
 #include <stdio.h>
 
