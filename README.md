@@ -1,5 +1,5 @@
 # C-101
-# "Hoş geldin, sitemdeki bu sayfada C programlama dili ile ilgili 101 farklı projeyi bulacaksınız. Projelerin zorluk seviyesi basit ve giriş seviye, yani başlangıç düzeyindeki programcılar için uygundur. Bu projelerle C programlama dillerinin temel kavramlarını öğrenebilir ve kendinizi geliştirebilirsiniz. Her proje, kodlarla birlikte açıklanmış ve anlaşılır bir şekilde tanımlanmıştır. Kodlara ulaşmak için github iconuna tıklaman yeterli. Eğlenerek ve kolayca öğrenmek isteyen herkes için mükemmel bir fırsat. Başlamak için bir proje seçin ve kodlamaya başlayın!"
+## "Hoş geldin, sitemdeki bu sayfada C programlama dili ile ilgili 101 farklı projeyi bulacaksınız. Projelerin zorluk seviyesi basit ve giriş seviye, yani başlangıç düzeyindeki programcılar için uygundur. Bu projelerle C programlama dillerinin temel kavramlarını öğrenebilir ve kendinizi geliştirebilirsiniz. Her proje, kodlarla birlikte açıklanmış ve anlaşılır bir şekilde tanımlanmıştır. Kodlara ulaşmak için github iconuna tıklaman yeterli. Eğlenerek ve kolayca öğrenmek isteyen herkes için mükemmel bir fırsat. Başlamak için bir proje seçin ve kodlamaya başlayın!"
 
 1-Hello World  
 2-Data Types  
